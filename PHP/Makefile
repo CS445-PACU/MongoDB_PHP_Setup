@@ -9,7 +9,7 @@
 
 all: copy
 
-PROJ=PHPPractice
+PROJ=MongoDB_PHP_Setup
 
 copy: 
 	echo ${USER}
